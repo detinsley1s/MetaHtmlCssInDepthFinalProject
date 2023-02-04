@@ -4,17 +4,26 @@ header {
 }
 
 nav {
+    display: flex;
+    justify-content: center;
     background-color: tomato;
 }
 
 ul {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     list-style: none;
     padding-top: 20px;
     padding-bottom: 20px;
+    width: 30%;
 }
 
 a {
     text-decoration: none;
+
 }
+
+/*li {
+    width: 25%;
+    border: 1px solid black;
+}*/
