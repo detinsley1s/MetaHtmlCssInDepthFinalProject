@@ -33,3 +33,27 @@ li {
     justify-content: center;
     width: 25%;
 }
+
+#promotion {
+    margin: 0 25% 20px;
+    height: 250px;
+    background-image: url(./images/fireworks-bg.jpg);
+    border-radius: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 4em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 25px;
+    padding-top: 20px;
+    margin: 0;
+}
+
+#promotion article p {
+    color: white;
+    text-shadow: black 2px 2px;
+    font-size: 2em;
+    padding-left: 25px;
+    margin: 50px 0;
+}
