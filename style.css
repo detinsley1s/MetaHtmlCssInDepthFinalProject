@@ -2,3 +2,19 @@ header {
     display: flex;
     justify-content: center;
 }
+
+nav {
+    background-color: tomato;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+}
