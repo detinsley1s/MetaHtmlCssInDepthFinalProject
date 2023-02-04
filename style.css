@@ -106,3 +106,9 @@ h2 {
     margin-top: 50px;
     padding-left: 15px;
 }
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 25%;
+}
